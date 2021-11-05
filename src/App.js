@@ -14,8 +14,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
-            I Am Testing to see if it works
+           Template For Serverless app in ReactJS
           </p>
           <a
             className="App-link"
